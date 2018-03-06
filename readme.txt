@@ -1,0 +1,1 @@
+Based on python, this project has realized the dynamic visual display of algorithms such as golden section, Lagrange interpolation, Newton interpolation, cubic natural spline interpolation and adaptive numerical integration.
